@@ -1,0 +1,2 @@
+x = "ola"
+print(x)
